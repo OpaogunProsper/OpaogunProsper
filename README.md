@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opaogunprosper&label=Profile%20views&color=0e75b6&style=flat" alt="opaogunprosper" /> </p>
 
-- 🔭 I’m currently working on **Meal Prep**
+- 🔭 I’m currently working on: Building full-stack applications using React and PostgreSQL
 
 - 🌱 I’m currently learning **Next.js, MongoDB**
 
